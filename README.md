@@ -31,7 +31,7 @@ The goal of this project is to provide a complete set of out-of-the-way solution
 Currently it provides you with:
  - a game loop
  - a component/object system
- - a physics engine (Forge2D, available through [flame_Forge2D](https://github.com/flame-engine/flame_Forge2D))
+ - a physics engine (Forge2D, available through [flame_forge2d](https://github.com/flame-engine/flame_forge2d))
  - audio support
  - effects and particles
  - gesture and input support
